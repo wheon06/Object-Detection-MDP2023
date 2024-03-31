@@ -16,3 +16,5 @@
 >
 > Raspberry Pi 4 Model B 환경에서 YOLOv3-tiny에 기반한 객체 인식 프로그램을 개발하였습니다.
 ***
+## 프로젝트 디자이너
+### Gio Choi //https://github.com/ellystargram
